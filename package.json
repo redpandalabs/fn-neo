@@ -1,0 +1,27 @@
+{
+  "name": "fn-neo",
+  "version": "0.0.1",
+  "description": "functional graph access layer for Neo4J",
+  "main": "index.js",
+  "scripts": {
+    "test": "jasmine"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RedPandaInnovationLabs/fn-neo.git"
+  },
+  "keywords": [
+    "graph",
+    "nosql",
+    "neo4j"
+  ],
+  "author": "Piyush Katariya, corporate.piyush@gmail.com",
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/RedPandaInnovationLabs/fn-neo/issues"
+  },
+  "homepage": "https://github.com/RedPandaInnovationLabs/fn-neo#readme",
+  "dependencies": {
+    "axios": "0.11.1"
+  }
+}
