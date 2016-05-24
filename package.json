@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/RedPandaInnovationLabs/fn-neo.git"
+    "url": "git+https://github.com/RedPandaLabs/fn-neo.git"
   },
   "keywords": [
     "graph",
@@ -18,9 +18,9 @@
   "author": "Piyush Katariya, corporate.piyush@gmail.com",
   "license": "BSD-2-Clause",
   "bugs": {
-    "url": "https://github.com/RedPandaInnovationLabs/fn-neo/issues"
+    "url": "https://github.com/RedPandaLabs/fn-neo/issues"
   },
-  "homepage": "https://github.com/RedPandaInnovationLabs/fn-neo#readme",
+  "homepage": "https://github.com/RedPandaLabs/fn-neo#readme",
   "dependencies": {
     "axios": "0.11.1"
   }
